@@ -25,7 +25,7 @@ export default function RootLayout({
             <Header />
             <div className="flex-1 max-w-lg m-auto py-12 w-full">
               {children}
-            H</div>
+            </div>
           </div>
         </ThemeProvider>
       </body>
